@@ -1,0 +1,9 @@
+--extra-index-url https://download.pytorch.org/whl/cu117
+autopep8
+Cython
+tqdm
+matplotlib==3.7.0
+torch==1.13.1+cu117
+torchvision==0.14.1+cu117
+webdataset==0.2.33
+opencv-contrib-python==4.7.0.72
